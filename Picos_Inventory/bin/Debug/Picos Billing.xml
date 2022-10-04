@@ -1,0 +1,1100 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PicosBilling
+</name>
+</assembly>
+<members>
+<member name="T:Picos_Billing.utilisateurs.utilisateurDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Picos_Billing.utilisateurs.utilisateurRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Picos_Billing.utilisateurs.utilisateurRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Picos_Billing.utilisateurs">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Picos_Billing.utilisateursTableAdapters.utilisateurTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Picos_Billing.utilisateursTableAdapters.TableAdapterManager.UpdateUpdatedRows(Picos_Billing.utilisateurs,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.utilisateursTableAdapters.TableAdapterManager.UpdateInsertedRows(Picos_Billing.utilisateurs,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.utilisateursTableAdapters.TableAdapterManager.UpdateDeletedRows(Picos_Billing.utilisateurs,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Picos_Billing.utilisateursTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Picos_Billing.utilisateursTableAdapters.TableAdapterManager.UpdateAll(Picos_Billing.utilisateurs)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Picos_Billing.utilisateursTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Picos_Billing.utilisateursTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Picos_Billing.utilisateursTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Picos_Billing.details_temp.details_tempDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Picos_Billing.details_temp.details_tempRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Picos_Billing.details_temp.details_tempRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Picos_Billing.details_temp">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Picos_Billing.details_tempTableAdapters.details_tempTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Picos_Billing.details_tempTableAdapters.TableAdapterManager.UpdateUpdatedRows(Picos_Billing.details_temp,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.details_tempTableAdapters.TableAdapterManager.UpdateInsertedRows(Picos_Billing.details_temp,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.details_tempTableAdapters.TableAdapterManager.UpdateDeletedRows(Picos_Billing.details_temp,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Picos_Billing.details_tempTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Picos_Billing.details_tempTableAdapters.TableAdapterManager.UpdateAll(Picos_Billing.details_temp)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Picos_Billing.details_tempTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Picos_Billing.details_tempTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Picos_Billing.details_tempTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Picos_Billing.entreestock.produitsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Picos_Billing.entreestock.produitsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Picos_Billing.entreestock.produitsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Picos_Billing.entreestock">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Picos_Billing.entreestockTableAdapters.produitsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Picos_Billing.entreestockTableAdapters.TableAdapterManager.UpdateUpdatedRows(Picos_Billing.entreestock,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.entreestockTableAdapters.TableAdapterManager.UpdateInsertedRows(Picos_Billing.entreestock,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.entreestockTableAdapters.TableAdapterManager.UpdateDeletedRows(Picos_Billing.entreestock,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Picos_Billing.entreestockTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Picos_Billing.entreestockTableAdapters.TableAdapterManager.UpdateAll(Picos_Billing.entreestock)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Picos_Billing.entreestockTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Picos_Billing.entreestockTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Picos_Billing.entreestockTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet.clientsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet.clientsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet.clientsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSetTableAdapters.clientsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Picos_Billing.facturationDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Picos_Billing.facturationDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Picos_Billing.facturationDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSetTableAdapters.TableAdapterManager.UpdateAll(Picos_Billing.facturationDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet2.details_tempDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet2.details_tempRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet2.details_tempRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet2TableAdapters.details_tempTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(Picos_Billing.facturationDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(Picos_Billing.facturationDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(Picos_Billing.facturationDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSet2TableAdapters.TableAdapterManager.UpdateAll(Picos_Billing.facturationDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Picos_Billing.infosProduits.produitsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Picos_Billing.infosProduits.produitsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Picos_Billing.infosProduits.produitsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Picos_Billing.infosProduits">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Picos_Billing.infosProduitsTableAdapters.produitsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Picos_Billing.infosProduitsTableAdapters.TableAdapterManager.UpdateUpdatedRows(Picos_Billing.infosProduits,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.infosProduitsTableAdapters.TableAdapterManager.UpdateInsertedRows(Picos_Billing.infosProduits,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.infosProduitsTableAdapters.TableAdapterManager.UpdateDeletedRows(Picos_Billing.infosProduits,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Picos_Billing.infosProduitsTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Picos_Billing.infosProduitsTableAdapters.TableAdapterManager.UpdateAll(Picos_Billing.infosProduits)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Picos_Billing.infosProduitsTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Picos_Billing.infosProduitsTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Picos_Billing.infosProduitsTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Picos_Billing.fac1.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Picos_Billing.fac1.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Picos_Billing.fac1.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Picos_Billing.fac1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Picos_Billing.facprod.produitsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Picos_Billing.facprod.produitsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Picos_Billing.facprod.produitsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Picos_Billing.facprod">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Picos_Billing.facprodTableAdapters.produitsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Picos_Billing.facprodTableAdapters.TableAdapterManager.UpdateUpdatedRows(Picos_Billing.facprod,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.facprodTableAdapters.TableAdapterManager.UpdateInsertedRows(Picos_Billing.facprod,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.facprodTableAdapters.TableAdapterManager.UpdateDeletedRows(Picos_Billing.facprod,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Picos_Billing.facprodTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Picos_Billing.facprodTableAdapters.TableAdapterManager.UpdateAll(Picos_Billing.facprod)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Picos_Billing.facprodTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Picos_Billing.facprodTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Picos_Billing.facprodTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet3.clientsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet3.clientsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet3.clientsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet3TableAdapters.clientsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(Picos_Billing.facturationDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(Picos_Billing.facturationDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(Picos_Billing.facturationDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSet3TableAdapters.TableAdapterManager.UpdateAll(Picos_Billing.facturationDataSet3)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet3TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Picos_Billing.facture.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Picos_Billing.facture.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Picos_Billing.facture.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Picos_Billing.facture">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Picos_Billing.factureTableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Picos_Billing.factureTableAdapters.QueriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Picos_Billing.factureTableAdapters.TableAdapterManager.UpdateUpdatedRows(Picos_Billing.facture,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.factureTableAdapters.TableAdapterManager.UpdateInsertedRows(Picos_Billing.facture,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.factureTableAdapters.TableAdapterManager.UpdateDeletedRows(Picos_Billing.facture,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Picos_Billing.factureTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Picos_Billing.factureTableAdapters.TableAdapterManager.UpdateAll(Picos_Billing.facture)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Picos_Billing.factureTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Picos_Billing.factureTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Picos_Billing.factureTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Picos_Billing.infosClients.clientsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Picos_Billing.infosClients.clientsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Picos_Billing.infosClients.clientsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Picos_Billing.infosClients">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Picos_Billing.infosClientsTableAdapters.clientsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Picos_Billing.infosClientsTableAdapters.TableAdapterManager.UpdateUpdatedRows(Picos_Billing.infosClients,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.infosClientsTableAdapters.TableAdapterManager.UpdateInsertedRows(Picos_Billing.infosClients,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.infosClientsTableAdapters.TableAdapterManager.UpdateDeletedRows(Picos_Billing.infosClients,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Picos_Billing.infosClientsTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Picos_Billing.infosClientsTableAdapters.TableAdapterManager.UpdateAll(Picos_Billing.infosClients)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Picos_Billing.infosClientsTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Picos_Billing.infosClientsTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Picos_Billing.infosClientsTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Picos_Billing.users.utilisateursDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Picos_Billing.users.utilisateursRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Picos_Billing.users.utilisateursRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Picos_Billing.users">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Picos_Billing.usersTableAdapters.utilisateursTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Picos_Billing.usersTableAdapters.TableAdapterManager.UpdateUpdatedRows(Picos_Billing.users,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.usersTableAdapters.TableAdapterManager.UpdateInsertedRows(Picos_Billing.users,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.usersTableAdapters.TableAdapterManager.UpdateDeletedRows(Picos_Billing.users,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Picos_Billing.usersTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Picos_Billing.usersTableAdapters.TableAdapterManager.UpdateAll(Picos_Billing.users)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Picos_Billing.usersTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Picos_Billing.usersTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Picos_Billing.usersTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Picos_Billing.details_tmp.details_tempDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Picos_Billing.details_tmp.details_tempRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Picos_Billing.details_tmp.details_tempRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Picos_Billing.details_tmp">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Picos_Billing.details_tmpTableAdapters.details_tempTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Picos_Billing.details_tmpTableAdapters.TableAdapterManager.UpdateUpdatedRows(Picos_Billing.details_tmp,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.details_tmpTableAdapters.TableAdapterManager.UpdateInsertedRows(Picos_Billing.details_tmp,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.details_tmpTableAdapters.TableAdapterManager.UpdateDeletedRows(Picos_Billing.details_tmp,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Picos_Billing.details_tmpTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Picos_Billing.details_tmpTableAdapters.TableAdapterManager.UpdateAll(Picos_Billing.details_tmp)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Picos_Billing.details_tmpTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Picos_Billing.details_tmpTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Picos_Billing.details_tmpTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Picos_Billing.facturationD.commandesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Picos_Billing.facturationD.details_cmdDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Picos_Billing.facturationD.commandesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Picos_Billing.facturationD.details_cmdRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Picos_Billing.facturationD.commandesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Picos_Billing.facturationD.details_cmdRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Picos_Billing.facturationD">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Picos_Billing.facturationDTableAdapters.commandesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Picos_Billing.facturationDTableAdapters.details_cmdTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Picos_Billing.facturationDTableAdapters.TableAdapterManager.UpdateUpdatedRows(Picos_Billing.facturationD,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.facturationDTableAdapters.TableAdapterManager.UpdateInsertedRows(Picos_Billing.facturationD,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.facturationDTableAdapters.TableAdapterManager.UpdateDeletedRows(Picos_Billing.facturationD,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Picos_Billing.facturationDTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Picos_Billing.facturationDTableAdapters.TableAdapterManager.UpdateAll(Picos_Billing.facturationD)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Picos_Billing.facturationDTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Picos_Billing.facturationDTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Picos_Billing.facturationDTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet1.produitsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet1.produitsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet1.produitsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet1TableAdapters.produitsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Picos_Billing.facturationDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Picos_Billing.facturationDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Picos_Billing.facturationDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSet1TableAdapters.TableAdapterManager.UpdateAll(Picos_Billing.facturationDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet4.produitsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet4.produitsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet4.produitsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet4TableAdapters.produitsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(Picos_Billing.facturationDataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(Picos_Billing.facturationDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(Picos_Billing.facturationDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Picos_Billing.facturationDataSet4TableAdapters.TableAdapterManager.UpdateAll(Picos_Billing.facturationDataSet4)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Picos_Billing.facturationDataSet4TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Picos_Billing.commandes.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Picos_Billing.commandes.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Picos_Billing.commandes.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Picos_Billing.commandes">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Picos_Billing.commandesTableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Picos_Billing.commandesTableAdapters.TableAdapterManager.UpdateUpdatedRows(Picos_Billing.commandes,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.commandesTableAdapters.TableAdapterManager.UpdateInsertedRows(Picos_Billing.commandes,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.commandesTableAdapters.TableAdapterManager.UpdateDeletedRows(Picos_Billing.commandes,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Picos_Billing.commandesTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Picos_Billing.commandesTableAdapters.TableAdapterManager.UpdateAll(Picos_Billing.commandes)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Picos_Billing.commandesTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Picos_Billing.commandesTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Picos_Billing.commandesTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Picos_Billing.lstcmd.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Picos_Billing.lstcmd.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Picos_Billing.lstcmd.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Picos_Billing.lstcmd">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Picos_Billing.lstcmdTableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Picos_Billing.lstcmdTableAdapters.TableAdapterManager.UpdateUpdatedRows(Picos_Billing.lstcmd,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.lstcmdTableAdapters.TableAdapterManager.UpdateInsertedRows(Picos_Billing.lstcmd,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.lstcmdTableAdapters.TableAdapterManager.UpdateDeletedRows(Picos_Billing.lstcmd,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Picos_Billing.lstcmdTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Picos_Billing.lstcmdTableAdapters.TableAdapterManager.UpdateAll(Picos_Billing.lstcmd)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Picos_Billing.lstcmdTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Picos_Billing.lstcmdTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Picos_Billing.lstcmdTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Picos_Billing.histo_prod.histo_prodDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Picos_Billing.histo_prod.histo_prodRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Picos_Billing.histo_prod.histo_prodRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Picos_Billing.histo_prod">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Picos_Billing.histo_prodTableAdapters.histo_prodTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Picos_Billing.histo_prodTableAdapters.TableAdapterManager.UpdateUpdatedRows(Picos_Billing.histo_prod,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.histo_prodTableAdapters.TableAdapterManager.UpdateInsertedRows(Picos_Billing.histo_prod,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Picos_Billing.histo_prodTableAdapters.TableAdapterManager.UpdateDeletedRows(Picos_Billing.histo_prod,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Picos_Billing.histo_prodTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Picos_Billing.histo_prodTableAdapters.TableAdapterManager.UpdateAll(Picos_Billing.histo_prod)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Picos_Billing.histo_prodTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Picos_Billing.histo_prodTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Picos_Billing.histo_prodTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.Culture">
+	<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.B__2_">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.brief_125px">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.cancel_17px">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.check_125px">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.check_20px">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.commercial_development_management_125px">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.commercial_development_management_20px">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.document_125px">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.document_125px1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.edit_account_17px">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.edit_account_17px1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.filled_circle_filled_50px">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.filled_circle_filled_50px1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.filled_circle_filled_50px2">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.login_17px">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.logout_rounded_15px">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.logout_rounded_20px">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.motif1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.ok_17px">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.order_history_125px">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.product_125px">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.product_20px">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.purchase_order_125px">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.purchase_order_20px">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.restart_15px">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Picos_Billing.My.Resources.Resources.restart_32px">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Picos_Billing.My.Resources.Resources">
+	<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+</members>
+</doc>

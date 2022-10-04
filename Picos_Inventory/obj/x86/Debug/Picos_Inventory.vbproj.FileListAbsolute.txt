@@ -1,0 +1,142 @@
+E:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fChargement.resources
+E:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.Resources.resources
+E:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Inventory.vbproj.GenerateResource.Cache
+E:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fMenuPrincipal.resources
+E:\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.exe
+E:\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.pdb
+E:\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.xml
+E:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.exe
+E:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.xml
+E:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.pdb
+E:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fAjoutClient.resources
+F:\A L L   O F   M E\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.exe
+F:\A L L   O F   M E\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.xml
+F:\A L L   O F   M E\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.pdb
+F:\A L L   O F   M E\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\A L L   O F   M E\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fAjoutClient.resources
+F:\A L L   O F   M E\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fMenuPrincipal.resources
+F:\A L L   O F   M E\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fChargement.resources
+F:\A L L   O F   M E\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.Resources.resources
+F:\A L L   O F   M E\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\A L L   O F   M E\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fConnexion.resources
+E:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fAjoutProduitvb.resources
+H:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.exe
+H:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.xml
+H:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.pdb
+F:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.exe
+F:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.xml
+F:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.pdb
+F:\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.exe
+F:\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.pdb
+F:\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.xml
+F:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fAjoutClient.resources
+F:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fAjoutProduitvb.resources
+F:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fConnexion.resources
+F:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fMenuPrincipal.resources
+F:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fChargement.resources
+F:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.Resources.resources
+F:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.exe
+H:\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.pdb
+H:\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.xml
+H:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fAjoutClient.resources
+H:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fAjoutProduitvb.resources
+H:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fConnexion.resources
+H:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fMenuPrincipal.resources
+H:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fChargement.resources
+H:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.Resources.resources
+H:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Inventory.vbproj.GenerateResource.Cache
+H:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fAjoutCommande.resources
+H:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fEntreeStock.resources
+K:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.exe
+K:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.xml
+K:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.pdb
+K:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fAjoutClient.resources
+K:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fAjoutCommande.resources
+K:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fAjoutProduitvb.resources
+K:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fConnexion.resources
+K:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fEntreeStock.resources
+K:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fMenuPrincipal.resources
+K:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fChargement.resources
+K:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.Resources.resources
+K:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Inventory.vbproj.GenerateResource.Cache
+K:\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.exe
+K:\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.pdb
+K:\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.xml
+K:\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.exe.config
+H:\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.exe.config
+F:\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.exe.config
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.exe.config
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.exe
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.xml
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.pdb
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fAjoutClient.resources
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fAjoutCommande.resources
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fAjoutProduitvb.resources
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fConnexion.resources
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fEntreeStock.resources
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fMenuPrincipal.resources
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fChargement.resources
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.Resources.resources
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Inventory.vbproj.GenerateResource.Cache
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.exe
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.pdb
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.xml
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fListeClient.resources
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.flisteProd.resources
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fUtilisateur.resources
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Inventory.vbprojResolveAssemblyReference.cache
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.rapClt.resources
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\RdlCompile.cache
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\RdlCompile.compiled
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.rapProduit.resources
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fNUser.resources
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fListeCmd.resources
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.rapCmd.resources
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.rapDet.resources
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.exe.manifest
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.application
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.exe.manifest
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.application
+D:\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.about.resources
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.exe.config
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.exe
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.xml
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.pdb
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.exe.manifest
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.application
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.exe
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.pdb
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\bin\Debug\Picos Billing.xml
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Inventory.vbprojResolveAssemblyReference.cache
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.about.resources
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fAjoutClient.resources
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fAjoutCommande.resources
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fAjoutProduitvb.resources
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fConnexion.resources
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fEntreeStock.resources
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fListeClient.resources
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fListeCmd.resources
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.flisteProd.resources
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fMenuPrincipal.resources
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fNUser.resources
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fChargement.resources
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.fUtilisateur.resources
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.Resources.resources
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.rapClt.resources
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.rapCmd.resources
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.rapDet.resources
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.rapProduit.resources
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Inventory.vbproj.GenerateResource.Cache
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\RdlCompile.cache
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\RdlCompile.compiled
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.exe.manifest
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos Billing.application
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.rapComd.resources
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.historique_prod.resources
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.facturee.resources
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.facc1.resources
+E:\Files\PROJET\PI\Picos_Inventory\Picos_Inventory\obj\x86\Debug\Picos_Billing.flst_cmd.resources
